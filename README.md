@@ -11,3 +11,4 @@ This project is been developed in a group conformed by the next members:
 This repository contains all deliverables corresponding to the course databases II, in this you will find:
 
 1. [Workshop 1](Workshop-1/Workshop_1.pdf): First deliverable with the initial proposals to the project.
+2. [Workshop 2](Workshop-2/Workshop_2.pdf): Second deliverable with the feedback of the previos one, and more information.
