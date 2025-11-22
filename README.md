@@ -12,3 +12,4 @@ This repository contains all deliverables corresponding to the course databases 
 
 1. [Workshop 1](Workshop-1/Workshop_1.pdf): First deliverable with the initial proposals to the project.
 2. [Workshop 2](Workshop-2/Workshop_2.pdf): Second deliverable with the feedback of the previous one, and more information.
+3. [Workshop 3](Workshop-3/Workshop_3.pdf): Third deliverable with improvements to user histories, informal requirements, DB architecture and new information as concurrency manage or performant strategies
